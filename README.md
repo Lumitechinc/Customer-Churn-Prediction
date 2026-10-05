@@ -8,7 +8,7 @@ Customer churn is expensive for subscription-based businesses — it's far cheap
 
 ## Dataset
 
-`data/customer_churn.csv` — 2,000 customer records with the following features:
+`customer_churn.csv` — 2,000 customer records with the following features:
 
 | Column | Description |
 |---|---|
